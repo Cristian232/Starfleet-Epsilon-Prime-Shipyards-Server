@@ -4,10 +4,12 @@ target/
 !mvnw
 !mvnw.cmd
 !.mvn
+!.mvn/wrapper
 !**/src/main/**/target/
 !**/src/test/**/target/
 !**/src/main/resources/application.properties
 src/main/resources/application.properties
+
 
 ### STS ###
 .apt_generated
